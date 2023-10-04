@@ -29,7 +29,6 @@ Este texto esta en **_negrita y cursiva_**.
 
 
 
-
 ```
 <html>
     <head>
@@ -43,3 +42,10 @@ Este texto esta en **_negrita y cursiva_**.
 
 
 ![Esto es una imagen](https://github.com/HugoFI/ASIX1M4UF1_A3Apuntes/blob/main/sul.jpeg "Saul")
+
+|Primera Col.|Seguna Col.|Tercera Col.|
+|---------------|:------------:|---------:|
+|Col 2 es|Centrada|35€|
+|Col 3 es|Derecha|134€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
